@@ -38,7 +38,7 @@ I love building clean, scalable products that blend design, engineering, and AI 
 ---
 
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-abdalla)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-abdallah-226358397/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A86B?logo=vercel&logoColor=white)](https://freshly-frontend-iota.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-555555?logo=gmail&logoColor=white)](mailto:abdallah08egy@icloud.com)
 
