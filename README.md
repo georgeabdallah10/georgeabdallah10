@@ -11,7 +11,7 @@ I love building clean, scalable products that blend design, engineering, and AI 
 ---
 
 ### 🚀 Projects I'm Working On
-- 🥦 **[Freshly](https://freshly-frontend-iota.vercel.app)** – CTO & Lead Developer. Built with React (TSX), Tailwind CSS, FastAPI, and Supabase. Focused on meal planning, smart grocery tracking, and personalized nutrition AI.  
+- 🥦 **[Freshly](https://freshly-frontend-iota.vercel.app)** – CTO & Lead Developer. Built with React-Native & Expo Go, CSS, FastAPI, and Supabase. Focused on meal planning, smart grocery tracking, and personalized nutrition AI.  
 - 💬 **Stack Overflow Clone** – Full-stack Q&A platform built during BDPA HSCC using React (TSX) + Tailwind CSS. Designed intuitive question sorting and voting features.
 
 ---
