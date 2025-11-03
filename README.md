@@ -33,7 +33,6 @@ I love building clean, scalable products that blend design, engineering, and AI 
 
 ### 📈 GitHub Stats
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeabdallah&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeabdallah&layout=compact&theme=tokyonight)
 
 ---
 
