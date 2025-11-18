@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80)
+![Banner]([https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80](https://cdn.casago.com/uploads/places-where-beach-view-properties-carry-biggest-premium.jpg))
 
 # Hey 👋 I'm George!
 
