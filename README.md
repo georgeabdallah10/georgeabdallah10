@@ -30,14 +30,9 @@ I love building clean, scalable products that blend design, engineering, and AI 
 
 ---
 
-### 📈 GitHub Stats
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgeabdallah&show_icons=true&theme=tokyonight)
-
----
-
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-abdallah-226358397/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A86B?logo=vercel&logoColor=white)](https://freshly-frontend-iota.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00A86B?logo=vercel&logoColor=white)]
 [![Email](https://img.shields.io/badge/-Email-555555?logo=gmail&logoColor=white)](mailto:abdallah08egy@icloud.com)
 
 ---
