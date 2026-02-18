@@ -1,19 +1,26 @@
-
 # Hey 👋 I'm George!
 
-I'm a **Full-Stack Developer** and **CTO at Freshly**, an AI-powered meal planning and grocery management app helping thousands of users save time and reduce food waste. 🍽️  
-I love building clean, scalable products that blend design, engineering, and AI to solve real-world problems.  
+I'm a Full-Stack Developer and CTO & Co-Founder of SwapMarket, a mobile marketplace platform for peer-to-peer trading.
 
-🌱 Currently learning more about **AI integrations**, **performance optimization**, and **backend scaling**.  
-💡 Passionate about creating tools that make everyday life smarter and simpler.
+Previously Co-Founder & Lead Developer at Freshly.
 
----
+I build scalable mobile apps, backend systems, and modern web platforms.
 
-### 🚀 Projects I'm Working On
-- 🥦 **[Freshly](https://freshly-frontend-iota.vercel.app)** – CTO & Lead Developer. Built with React-Native & Expo Go, CSS, FastAPI, and Supabase. Focused on meal planning, smart grocery tracking, and personalized nutrition AI.  
-- 💬 **Stack Overflow Clone** – Full-stack Q&A platform built during BDPA HSCC using React (TSX) + Tailwind CSS. Designed intuitive question sorting and voting features.
+## 🚀 Current Project
 
----
+**SwapMarket**
+- React Native mobile app
+- FastAPI backend
+- PostgreSQL database
+- Redis caching
+- Docker deployment
+
+## 🧠 Previously
+
+**Freshly**
+- Full-stack meal planning app
+- React Native + FastAPI
+- Transferred ownership for continued development
 
 ### 🧰 Languages & Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -31,8 +38,6 @@ I love building clean, scalable products that blend design, engineering, and AI 
 ---
 
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-abdallah-226358397/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A86B?logo=vercel&logoColor=white)]
 [![Email](https://img.shields.io/badge/-Email-555555?logo=gmail&logoColor=white)](mailto:abdallah08egy@icloud.com)
 
 ---
