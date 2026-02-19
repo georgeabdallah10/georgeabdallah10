@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer and CTO & Co-Founder of SwapMarket, a mobile marketplace platform for peer-to-peer trading.
 
-Previously Co-Founder & Lead Developer at Freshly.
+Previously The Lead Developer at Freshly.
 
 I build scalable mobile apps, backend systems, and modern web platforms.
 
